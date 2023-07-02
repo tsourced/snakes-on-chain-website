@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/snakes-on-chain-website/static/css/main.61ddac30.css",
-    "main.js": "/snakes-on-chain-website/static/js/main.6307c2a8.js",
+    "main.js": "/snakes-on-chain-website/static/js/main.411b6087.js",
     "static/js/612.f54bcaf8.chunk.js": "/snakes-on-chain-website/static/js/612.f54bcaf8.chunk.js",
     "static/js/570.2c08d01c.chunk.js": "/snakes-on-chain-website/static/js/570.2c08d01c.chunk.js",
     "static/js/248.8cc2fe9a.chunk.js": "/snakes-on-chain-website/static/js/248.8cc2fe9a.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/110.20981182.chunk.js": "/snakes-on-chain-website/static/js/110.20981182.chunk.js",
     "index.html": "/snakes-on-chain-website/index.html",
     "main.61ddac30.css.map": "/snakes-on-chain-website/static/css/main.61ddac30.css.map",
-    "main.6307c2a8.js.map": "/snakes-on-chain-website/static/js/main.6307c2a8.js.map",
+    "main.411b6087.js.map": "/snakes-on-chain-website/static/js/main.411b6087.js.map",
     "612.f54bcaf8.chunk.js.map": "/snakes-on-chain-website/static/js/612.f54bcaf8.chunk.js.map",
     "570.2c08d01c.chunk.js.map": "/snakes-on-chain-website/static/js/570.2c08d01c.chunk.js.map",
     "248.8cc2fe9a.chunk.js.map": "/snakes-on-chain-website/static/js/248.8cc2fe9a.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.61ddac30.css",
-    "static/js/main.6307c2a8.js"
+    "static/js/main.411b6087.js"
   ]
 }
