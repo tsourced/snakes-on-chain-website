@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://tsourced.github.io/snakes-on-chain-website/static/css/main.61ddac30.css",
-    "main.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/main.e7098461.js",
+    "main.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/main.dc8f12f4.js",
     "static/js/612.3edc76c5.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/612.3edc76c5.chunk.js",
     "static/js/570.abf8a221.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/570.abf8a221.chunk.js",
     "static/js/248.03f6f4a4.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/248.03f6f4a4.chunk.js",
@@ -10,12 +10,12 @@
     "static/js/609.0b193de5.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/609.0b193de5.chunk.js",
     "static/js/281.e281f68b.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/281.e281f68b.chunk.js",
     "static/js/333.daa5c097.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/333.daa5c097.chunk.js",
-    "static/js/326.119b5ceb.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/326.119b5ceb.chunk.js",
+    "static/js/326.411fe621.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/326.411fe621.chunk.js",
     "static/js/758.6afed3b5.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/758.6afed3b5.chunk.js",
     "static/js/110.20981182.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/110.20981182.chunk.js",
     "index.html": "https://tsourced.github.io/snakes-on-chain-website/index.html",
     "main.61ddac30.css.map": "https://tsourced.github.io/snakes-on-chain-website/static/css/main.61ddac30.css.map",
-    "main.e7098461.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/main.e7098461.js.map",
+    "main.dc8f12f4.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/main.dc8f12f4.js.map",
     "612.3edc76c5.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/612.3edc76c5.chunk.js.map",
     "570.abf8a221.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/570.abf8a221.chunk.js.map",
     "248.03f6f4a4.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/248.03f6f4a4.chunk.js.map",
@@ -24,12 +24,12 @@
     "609.0b193de5.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/609.0b193de5.chunk.js.map",
     "281.e281f68b.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/281.e281f68b.chunk.js.map",
     "333.daa5c097.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/333.daa5c097.chunk.js.map",
-    "326.119b5ceb.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/326.119b5ceb.chunk.js.map",
+    "326.411fe621.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/326.411fe621.chunk.js.map",
     "758.6afed3b5.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/758.6afed3b5.chunk.js.map",
     "110.20981182.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/110.20981182.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61ddac30.css",
-    "static/js/main.e7098461.js"
+    "static/js/main.dc8f12f4.js"
   ]
 }
