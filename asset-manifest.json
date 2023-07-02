@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "https://tsourced.github.io/snakes-on-chain-website/static/css/main.61ddac30.css",
-    "main.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/main.24e06fcb.js",
-    "static/js/612.46de5f13.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/612.46de5f13.chunk.js",
-    "static/js/570.e5f615f0.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/570.e5f615f0.chunk.js",
-    "static/js/248.29a3c8d2.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/248.29a3c8d2.chunk.js",
+    "main.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/main.3938d034.js",
+    "static/js/612.7a3eff98.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/612.7a3eff98.chunk.js",
+    "static/js/570.4e2acde8.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/570.4e2acde8.chunk.js",
+    "static/js/248.52463a89.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/248.52463a89.chunk.js",
     "static/js/992.1a842c44.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/992.1a842c44.chunk.js",
-    "static/js/213.a49d38b1.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/213.a49d38b1.chunk.js",
+    "static/js/213.59a4e156.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/213.59a4e156.chunk.js",
     "static/js/609.0b193de5.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/609.0b193de5.chunk.js",
     "static/js/281.e281f68b.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/281.e281f68b.chunk.js",
     "static/js/333.daa5c097.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/333.daa5c097.chunk.js",
@@ -15,12 +15,12 @@
     "static/js/110.20981182.chunk.js": "https://tsourced.github.io/snakes-on-chain-website/static/js/110.20981182.chunk.js",
     "index.html": "https://tsourced.github.io/snakes-on-chain-website/index.html",
     "main.61ddac30.css.map": "https://tsourced.github.io/snakes-on-chain-website/static/css/main.61ddac30.css.map",
-    "main.24e06fcb.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/main.24e06fcb.js.map",
-    "612.46de5f13.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/612.46de5f13.chunk.js.map",
-    "570.e5f615f0.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/570.e5f615f0.chunk.js.map",
-    "248.29a3c8d2.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/248.29a3c8d2.chunk.js.map",
+    "main.3938d034.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/main.3938d034.js.map",
+    "612.7a3eff98.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/612.7a3eff98.chunk.js.map",
+    "570.4e2acde8.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/570.4e2acde8.chunk.js.map",
+    "248.52463a89.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/248.52463a89.chunk.js.map",
     "992.1a842c44.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/992.1a842c44.chunk.js.map",
-    "213.a49d38b1.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/213.a49d38b1.chunk.js.map",
+    "213.59a4e156.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/213.59a4e156.chunk.js.map",
     "609.0b193de5.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/609.0b193de5.chunk.js.map",
     "281.e281f68b.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/281.e281f68b.chunk.js.map",
     "333.daa5c097.chunk.js.map": "https://tsourced.github.io/snakes-on-chain-website/static/js/333.daa5c097.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.61ddac30.css",
-    "static/js/main.24e06fcb.js"
+    "static/js/main.3938d034.js"
   ]
 }
